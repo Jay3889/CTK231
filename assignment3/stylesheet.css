@@ -1,0 +1,41 @@
+#G1 {
+    color: rgb(56, 3, 69);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgb(196, 114, 237);
+}
+#G2 {
+    color: rgb(78, 57, 4);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgb(227, 239, 144);
+}
+#G3 {
+    color: rgb(44, 20, 2);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: rgb(210, 148, 97);
+}
+
+
+a {
+    color: red;
+}
+a:visited{
+    color: green;
+}
+
+a:hover {
+    color: yellow;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
+.A1 {
+    background-color: rgb(176, 152, 30);
+    color: rgb(51, 43, 2);
+}
+#SP3 {
+    background-color: rgb(171, 99, 51);}
+.A2 {
+    background-color: rgb(119, 63, 175);
+
+}

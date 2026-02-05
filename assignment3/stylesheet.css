@@ -13,7 +13,8 @@ background-color: rgb(227, 239, 144);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 background-color: rgb(210, 148, 97);
 }
-
+.w { color: rgb(122, 15, 97);
+}
 
 a {
     color: red;

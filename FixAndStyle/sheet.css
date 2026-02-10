@@ -1,0 +1,13 @@
+a {color: green;}
+a:hover {color: red;}
+
+
+.A1 {color: aliceblue;}
+.B1 { color: blue;}
+.C1 { background-color: yellow;}
+.D1 {background-color: green; color: yellow;}
+.E1 {color: red; background-color: yellow;}
+#A1 { background-color: rgb(135, 164, 250);}
+#B1 {background-color: lightgreen;}
+#C1 {background-color: yellow;}
+#D1 {color: red;}

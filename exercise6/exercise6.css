@@ -1,0 +1,50 @@
+#Wrapper {margin: 1em auto;
+  padding: 0;
+  width: 1200px;
+  border: 1px solid #ff0000;
+  background-color: #ffffff;
+  grid-template-columns: repeat(12, 1fr);
+  display: grid;}
+
+
+body {background-color: rgb(241, 195, 204);}
+
+
+header {grid-column: span 12;
+  background-color: rgb(232, 44, 135);
+text-align: center;}
+
+nav {grid-column: span 3;
+  background-color: rgb(106, 28, 9);
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  width: 200px;
+}
+
+nav li a {
+  display: block;
+  background-color: red;
+  border: 1px solid black;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+}
+
+main { grid-column: span 6;
+  background-color: coral;
+}
+
+aside {grid-column: span 3;
+  background-color: rgb(199, 113, 129);
+}
+
+footer {grid-column: span 12;
+  background-color: rgb(232, 44, 135);
+}

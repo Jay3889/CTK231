@@ -1,0 +1,104 @@
+#wrapperC {
+  margin: 1em auto;
+  padding: 5px;
+  width: 1200px;
+  background-color: #480571;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+grid-template-rows: 100px auto auto;
+}
+.Float {float: left;
+
+margin-bottom: 20px;
+border: 5px solid rgb(0, 0, 0);}
+
+.Clear {clear:both;}
+
+.H1 { color: #ffffff;
+    text-decoration: none;
+    font-size: 26px;
+margin-left: 1em;}
+.H1:hover {color: rgb(255, 247, 0);}
+
+body {background-color: rgb(180, 104, 198);
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header {grid-column: span 12;
+    background-image: linear-gradient(to bottom, #aa13f6, #9216e4, #7116d2, #5115c0, #2513ae);
+padding-top: 30px;
+
+}
+nav {grid-column: span 12;
+ background-color:#5115c0;}
+
+nav ul {list-style: none;
+    margin-left: 0%;
+    padding: 0%;
+}
+
+nav li {list-style: none;
+    background-color: rgb(200, 10, 10);
+    margin-right: 5px;
+    display: inline-block;
+
+}
+
+nav li a:hover {background-image: linear-gradient(to top, #c913f6, #e416d6, #d21697, #c01570, #ae1337);
+    color: rgb(0, 0, 0);}
+
+nav li a {color: white;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    width: 250px;
+    background-image: linear-gradient(to bottom, #c913f6, #e416d6, #d21697, #c01570, #ae1337);
+text-align: center;}
+
+main {grid-column: span 4;
+  padding: 1em;
+    margin-top: 1em;
+    background-color: rgb(240, 175, 208);
+}
+main a {color: rgb(223, 20, 88);
+text-decoration: none;
+font-weight: bold;}
+main a:hover {color: rgb(0, 119, 155);
+text-decoration: underline;}
+main h2 { color: #480571;
+    border-bottom: 3px solid #480571;}
+
+section {grid-column: span 4;
+background-color: #cf589d;
+margin-top: 1em;
+padding: 1em;}
+section h2 {color: rgb(53, 7, 71);
+border-bottom:3px solid rgb(53, 7, 71);}
+section a {color: rgb(196, 0, 0);
+text-decoration: none;
+font-weight: bold;}
+section a:hover {color: rgb(42, 186, 230);
+text-decoration: underline;}
+
+aside {grid-column: span 4;
+    background-color: rgb(108, 43, 75);
+    margin-top: 1em;
+    padding: 1em;
+    color: rgb(247, 191, 250);
+}
+aside h2 { color: rgb(247, 191, 250);
+    border-bottom: 3px solid rgb(247, 191, 250);}
+    
+aside a {color: rgb(240, 46, 179);
+text-decoration: none;
+font-weight: bold;}
+aside a:hover {color:rgb(42, 186, 230);
+text-decoration: underline;}
+
+footer {background-color: rgb(200, 10, 10); 
+grid-column: span 12;
+padding: 1em;
+border-top: 5px solid rgb(94, 5, 113);
+
+}

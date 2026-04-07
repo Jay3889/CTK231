@@ -1,0 +1,139 @@
+#subwapper {  
+  color: white;
+  margin: 2em auto;
+  border: 5px solid black;
+  padding: 24px;
+background-color: rgb(120, 60, 177);
+  display: grid;
+  grid-column-gap: 24px;
+  grid-template-columns: repeat(12, 1fr);
+  border-radius: 30px;
+}
+header {grid-column: span 12;
+background-color: rgb(120, 60, 177);
+border-radius: 30px;
+border: 5px solid rgb(0, 0, 0);}
+
+header nav {grid-column: span 12;
+text-align: center;
+}
+
+header nav ul {list-style: none;
+
+}
+
+header nav li {list-style: none;
+  
+    display: inline-block;
+    
+
+}
+
+header nav li a:hover {background-color: rgb(138, 88, 185);
+}
+
+header nav li a {color: white;
+  background-color: rgb(172, 108, 232);
+    border: 5px solid black;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    width: 100px;
+    margin-right: 6em ;
+text-align: center;
+border-radius: 30px;}
+
+section {
+grid-column: span 12;
+
+}
+
+section h1 {grid-column: span 6;
+  background-color: rgb(138, 59, 228);
+border: 5px solid rgb(0, 0, 0);
+border-radius: 30px;
+padding: 1em;
+text-align: center; 
+align-self: center;
+}
+section ul {grid-column: span 3;
+  margin: 0;
+padding: 1em;}
+section nav ul {list-style: none;
+
+}
+
+section nav li {list-style: none;
+    margin-right: 5px;
+    display: inline-block;
+
+}
+
+section nav li a:hover {background-color: rgb(138, 88, 185);
+}
+
+section li a {color: white;
+  background-color: rgb(172, 108, 232);
+    border: 5px solid black;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    width: 100px;
+    margin-bottom: 2em;
+text-align: center;
+border-radius: 30px;}
+
+nav aside {grid-column: span 12;
+  text-align: center;
+  border: none;
+  margin-bottom: 0;
+
+}
+
+.flote {float: left; 
+  margin: 1em;}
+
+.flote2 {float: right; 
+  margin: 1em;}
+
+body {
+  background-color: #200332;
+}
+
+#wrapper {
+  color: white;
+  margin: 24px auto;
+  width: 1200px;
+  border: 1px solid black;
+  padding: 24px 100px;
+  background-color: #3f1462;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;}
+
+
+Main {grid-column: span 12;
+border: 5px solid rgb(0, 0, 0);
+padding: 1em;
+margin-bottom: 4em;
+background-color: rgb(120, 60, 177);
+border-radius: 30px;}
+
+ h1 {border: 5px solid rgb(0, 0, 0);
+background-color: rgb(173, 109, 233);
+width:max-content;
+padding: 1em;
+border-radius: 30px;
+}
+
+aside {grid-column: span 12;
+border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(120, 60, 177);
+padding: 1em;
+margin-bottom: 4em;
+border-radius: 30px;}
+
+
+

@@ -1,100 +1,134 @@
-#subwapper {  
+#subwapper {
   color: white;
   margin: 2em auto;
   border: 5px solid black;
   padding: 24px;
-background-color: rgb(120, 60, 177);
+  background-color: rgb(135, 30, 177);
   display: grid;
   grid-column-gap: 24px;
   grid-template-columns: repeat(12, 1fr);
   border-radius: 30px;
 }
-header {grid-column: span 12;
-background-color: rgb(120, 60, 177);
-border-radius: 30px;
-border: 5px solid rgb(0, 0, 0);}
 
-header nav {grid-column: span 12;
-text-align: center;
+header {
+  grid-column: span 12;
+  background-color: rgb(135, 30, 177);
+  border-radius: 30px;
+  border: 5px solid rgb(0, 0, 0);
 }
 
-header nav ul {list-style: none;
+header nav {
+  grid-column: span 12;
+  text-align: center;
+}
+
+header nav ul {
+  list-style: none;
 
 }
 
-header nav li {list-style: none;
-  
-    display: inline-block;
-    
+header nav li {
+  list-style: none;
+
+  display: inline-block;
+
 
 }
 
-header nav li a:hover {background-color: rgb(138, 88, 185);
+header nav li a {
+  color: white;
+  background-color: rgb(152, 98, 199);
+  border: 5px solid rgb(0, 0, 0);
+  text-decoration: none;
+  display: block;
+  padding: 0px;
+  width: 200px;
+  margin-right: 3em;
+  text-align: center;
+  border-radius: 30px;
+  font-size: 23px;
 }
 
-header nav li a {color: white;
-  background-color: rgb(172, 108, 232);
-    border: 5px solid black;
-    text-decoration: none;
-    display: block;
-    padding: 20px;
-    width: 100px;
-    margin-right: 6em ;
-text-align: center;
-border-radius: 30px;}
+header nav li a:hover {
+  background-color: rgb(124, 82, 161);
+}
 
 section {
-grid-column: span 12;
-
+  grid-column: span 12;
 }
 
-section h1 {grid-column: span 6;
-  background-color: rgb(138, 59, 228);
-border: 5px solid rgb(0, 0, 0);
-border-radius: 30px;
-padding: 1em;
-text-align: center; 
-align-self: center;
-}
-section ul {grid-column: span 3;
+
+
+section ul {
+  grid-column: span 3;
   margin: 0;
-padding: 1em;}
-section nav ul {list-style: none;
+  padding: 0em;
+}
+
+section nav ul {
+  list-style: none;
+  margin-top: 2em;
 
 }
 
-section nav li {list-style: none;
-    margin-right: 5px;
-    display: inline-block;
+section nav li {
+  list-style: none;
+  margin-right: 5px;
+  display: inline-block;
+  
 
 }
 
-section nav li a:hover {background-color: rgb(138, 88, 185);
+section nav li a:hover {
+  background-color: rgb(138, 88, 185);
 }
 
-section li a {color: white;
-  background-color: rgb(172, 108, 232);
-    border: 5px solid black;
-    text-decoration: none;
-    display: block;
-    padding: 20px;
-    width: 100px;
-    margin-bottom: 2em;
-text-align: center;
-border-radius: 30px;}
+section li a {
+  color: white;
+  background-color: rgb(138, 88, 185);
+  border: 5px solid black;
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  width: 200px;
+  margin-bottom: 2em;
+  text-align: center;
+  border-radius: 30px;
+  font-size: 32px;
+}
 
-nav aside {grid-column: span 12;
+section aside {
+  background-color: rgb(135, 30, 177);
+  padding: 2em;
+  border-radius: 30px;
+
+
+}
+
+section aside h1 {
+  background-color: rgb(128, 47, 220);
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 30px;
+  padding: 1em;
+  text-align: center;
+  align-self: center;
+  margin-bottom: 1em;
+  margin-top: 0em;
+  width: 85%
+}
+
+section nav aside {
+  grid-column: span 6;
   text-align: center;
   border: none;
   margin-bottom: 0;
-
+  
 }
 
-.flote {float: left; 
-  margin: 1em;}
+section nav aside ul {
+  display: flex;
+}
 
-.flote2 {float: right; 
-  margin: 1em;}
 
 body {
   background-color: #200332;
@@ -110,30 +144,73 @@ body {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-column-gap: 24px;
-  font-family: Arial, Helvetica, sans-serif;
-font-size: 18px;}
-
-
-Main {grid-column: span 12;
-border: 5px solid rgb(0, 0, 0);
-padding: 1em;
-margin-bottom: 4em;
-background-color: rgb(120, 60, 177);
-border-radius: 30px;}
-
- h1 {border: 5px solid rgb(0, 0, 0);
-background-color: rgb(173, 109, 233);
-width:max-content;
-padding: 1em;
-border-radius: 30px;
+  font-family: "Coiny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
 }
 
-aside {grid-column: span 12;
-border: 5px solid rgb(0, 0, 0);
-  background-color: rgb(120, 60, 177);
-padding: 1em;
-margin-bottom: 4em;
-border-radius: 30px;}
+.Text {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 
+.flote {
+  float: left;
+  margin: 1em;
+}
 
+.flote2 {
+  float: right;
+  margin: 1em;
+}
 
+Main {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(123, 63, 179);
+  border-radius: 30px;
+}
+
+.h1 {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(178, 140, 212);
+  width: max-content;
+  offset: path("M 70 100");
+  padding: 1em;
+  border-radius: 30px;
+  margin: 0%;
+}
+
+.h1a {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(178, 140, 212);
+  width: max-content;
+  offset: path("M 1100 100");
+  padding: 1em;
+  border-radius: 30px;
+  margin: 0%;
+}
+
+aside {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(123, 63, 179);
+  padding: 2em;
+  margin-bottom: 4em;
+  border-radius: 30px;
+}
+
+footer {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(135, 30, 177);
+  padding: 4em;
+  margin-bottom: 4em;
+  border-radius: 30px;
+
+}

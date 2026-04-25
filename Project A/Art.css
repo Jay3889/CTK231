@@ -1,0 +1,275 @@
+#subwapper {
+  color: white;
+  border: 5px solid black;
+  padding: 24px;
+  background-color: rgb(177, 89, 30);
+  display: grid;
+  grid-column-gap: 24px;
+  grid-template-columns: repeat(12, 1fr);
+  border-radius: 10px;
+  
+}
+
+header {
+  grid-column: span 12;
+  background-color: rgb(177, 94, 30);
+  border-radius: 10px;
+  border: 5px solid rgb(0, 0, 0);
+}
+
+header nav {
+  grid-column: span 12;
+  text-align: center;
+}
+
+header nav ul {
+  list-style: none;
+
+}
+
+header nav li {
+  list-style: none;
+  transform: skew(-20deg);
+  display: inline-block;
+
+
+}
+
+header nav li a {
+  color: white;
+  background-color: rgb(209, 137, 20);
+  border: 5px solid rgb(0, 0, 0);
+  text-decoration: none;
+  display: block;
+  padding: 0px;
+  width: 200px;
+  margin-right: 3em;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 23px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+header nav li a:hover {
+  background-color: rgb(170, 124, 18);
+}
+
+section {
+  grid-column: span 12;
+}
+
+
+
+section ul {
+  grid-column: span 3;
+  margin: 0;
+  padding: 0em;
+}
+
+section nav ul {
+  list-style: none;
+  margin-top: 2em;
+
+
+}
+
+section nav li {
+  list-style: none;
+  margin-right: 5px;
+  display: inline-block;
+  transform: skew(-10deg);
+
+
+}
+
+section nav li a:hover {
+  background-color: rgb(171, 109, 28);
+}
+
+section li a {
+  color: white;
+  background-color: rgb(224, 140, 29);
+  border: 5px solid black;
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  width: 200px;
+  margin-bottom: 2em;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 32px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+section aside {
+  background-color: rgb(177, 89, 30);
+  padding: 2em;
+  border-radius: 10px;
+
+
+}
+
+section aside h1 {
+  background-color: rgb(220, 122, 47);
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 1em;
+  text-align: center;
+  align-self: center;
+  margin-bottom: 1em;
+  margin-top: 0em;
+  width: 85%;
+  font-weight: normal;
+}
+
+section nav aside {
+  grid-column: span 6;
+  text-align: center;
+  border: none;
+  margin-bottom: 0;
+
+}
+
+section nav aside ul {
+  display: flex;
+}
+
+section nav aside p {
+  background-color: rgb(220, 122, 47);
+  border: 5px solid black;
+  color: rgb(255, 255, 255);
+  width: max-content, fit-content;
+  padding: 1em;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+body {
+  background-color: #320f03;
+}
+
+#wrapper {
+  color: white;
+  margin: 24px auto;
+  width: 1200px;
+  border: 1px solid black;
+  padding: 24px 100px;
+  background-color: #623c14;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+  font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  
+}
+
+.Text {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 25px
+}
+
+.flote {
+  float: left;
+  margin: 1em;
+}
+
+.flote2 {
+  float: right;
+  margin: 1em;
+}
+
+Main {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(196, 116, 24);
+  border-radius: 10px;
+}
+
+.h1 {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(220, 160, 47);
+  width: max-content;
+  offset: path("M 400 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+  transform: skew(-10deg);
+}
+
+.h1a {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(118, 118, 118);
+  width: max-content;
+  offset: path("M 900 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+  transform: skew(10deg);
+}
+
+.h1b {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(37, 15, 97);
+  width: max-content;
+  offset: path("M 250 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+  transform: skew(-10deg);
+}
+
+h1:hover {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+
+}
+
+h1 a {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-decoration: none;
+  
+}
+
+.main {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(196, 116, 24);
+  border-radius: 10px;
+}
+
+
+aside {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(196, 116, 24);
+  border-radius: 10px;
+}
+
+footer {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(177, 94, 30);
+  padding: 4em;
+  margin-bottom: 4em;
+  border-radius: 10px;
+
+}

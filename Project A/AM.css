@@ -1,0 +1,248 @@
+#subwapper {
+    color: white;
+    border: 5px solid black;
+    padding: 24px;
+    background-color: rgb(220, 174, 23);
+    display: grid;
+    grid-column-gap: 24px;
+    grid-template-columns: repeat(12, 1fr);
+    border-radius: 20px;
+
+
+}
+
+header {
+    grid-column: span 12;
+    background-color: rgb(220, 174, 23);
+    border-radius: 20px;
+    border: 5px solid rgb(0, 0, 0);
+
+}
+
+header nav {
+    grid-column: span 12;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0%;
+
+}
+
+header nav li {
+    list-style: none;
+
+    display: inline-block;
+
+
+}
+
+header nav li a {
+    color: rgb(0, 0, 0);
+    background-color: rgb(231, 215, 116);
+    border: 5px solid rgb(0, 0, 0);
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    width: 200px;
+    margin-right: 0em;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    border-radius: 10px;
+    font-size: 23px;
+}
+
+header nav li a:hover {
+    background-color: rgb(255, 245, 198);
+}
+
+section {
+    grid-column: span 12;
+}
+
+
+section aside {
+    background-color: rgb(220, 174, 23);
+    padding: 2em;
+    border-radius: 20px;
+
+
+}
+
+section aside h1 {
+    color: black;
+    background-color: rgb(241, 217, 95);
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 1em;
+    text-align: center;
+    align-self: center;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    width: max-content, fit-content
+}
+
+section nav aside {
+    grid-column: span 12;
+    text-align: center;
+    border: none;
+    margin: 0;
+
+
+}
+
+section nav aside ul {
+    display: flex;
+}
+
+
+body {
+    background-image: url(AM.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+#wrapper {
+    color: rgb(0, 0, 0);
+    margin: 24px auto;
+    width: 1200px;
+    padding: 24px 100px;
+    background-color: transparent;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 24px;
+    font-family: "Trade Winds", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.Text {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 25px
+}
+
+.flote {
+    float: left;
+    margin: 1em;
+}
+
+.flote2 {
+    float: right;
+    margin: 1em;
+}
+
+Main {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 2em;
+    margin-bottom: 1em;
+    background-color: rgb(240, 179, 22);
+    border-radius: 20px;
+
+}
+
+.h1 {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(245, 245, 98);
+    width: max-content;
+    offset: path("M 50 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(10deg);
+    font-family: "Limelight", sans-serif;
+}
+
+.h1 a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.h1 a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.h1a {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(97, 97, 97);
+    width: max-content;
+    offset: path("M 1000 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(-10deg);
+}
+
+.h1a a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.h1a a:hover {
+    color: rgb(0, 0, 0);
+}
+
+
+.h1b {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(35, 4, 89);
+    width: max-content;
+    offset: path("M 200 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(10deg);
+}
+
+.h1b a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.h1b a:hover {
+    color: rgb(148, 159, 233);
+}
+
+aside {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(39, 39, 39);
+    padding: 2em;
+    margin-bottom: 4em;
+    border-radius: 20px;
+}
+
+.T {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(41, 35, 106);
+    padding: 2em;
+    margin-bottom: 4em;
+    border-radius: 20px;
+}
+
+footer {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(230, 217, 45);
+    padding: 4em;
+    margin-bottom: 4em;
+    border-radius: 20px;
+
+}

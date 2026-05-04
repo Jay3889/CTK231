@@ -1,0 +1,2173 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Aftermath Page</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+		rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
+
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap" rel="stylesheet">
+
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"> 
+		
+	<link href="AM.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+	<div id="wrapper">
+			
+		<header>
+			<nav>
+				<ul>
+					<li><a href="Main.html">Home</a></li>
+					<li><a href="Story.html">Story</a></li>
+					<li><a href="Art.html">Art</a></li>
+					<li><a href="Music.html">Music</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+
+			<nav id="subwapper">
+
+				<aside>
+				<h1>Aftermath: Welcome To The Mayhem</h1>				
+				</aside>
+
+			</nav>
+
+		</section>
+	
+<h1 class="h1"> The Lore </h1>
+		<main>
+			<img class="flote" src="Photo/AM(m).png" alt="Image Name">	
+			<h3> Main story: Aftermath (2016 - 2026)</h3>
+			<p class="Text">Aftermath follows a group of people living in a divided town named Centralpoint. In the past Centralpoint was a unified urban town which promoted a lot of business, but now is suffering from power corruption and violent outbreaks. Those who enter the city are subjected to the trauma which prevents them from leaving because of a permanent barrier that causes mental disarray aka distortion in them.</p>
+			<h3> Pre-Aftermath (2018 - 2026)</h3>
+		<p class="Text">Both of the prequels take place 10-12 years before Aftermath. All events line up to the point where both end with Jessica and William as leaders. </p>
+		</main>
+
+
+<Footer>
+			<ul>
+				<li><a href="https://www.instagram.com/music_mixer_104?igsh=eWY5ZXprdWpvcTBo
+" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+									fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+									<path
+										d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+								</svg>
+						<li><a href="https://www.tumblr.com/majormelody?source=share" target="_blank">Tumblr
+							</a></li>
+			</ul>
+<p> These are my social tags that hold some of my artwork</p>
+</Footer>
+
+</body>
+</div>
+
+</html>
+#subwapper {
+    color: white;
+    border: 5px solid black;
+    padding: 24px;
+    background-color: rgb(220, 174, 23);
+    display: grid;
+    grid-column-gap: 24px;
+    grid-template-columns: repeat(12, 1fr);
+    border-radius: 20px;
+    margin-top: 100px;
+
+
+}
+
+header {
+    grid-column: span 12;
+    background-color: rgb(220, 174, 23);
+    border-radius: 20px;
+    padding-left: 1em;
+    border: 5px solid rgb(0, 0, 0);
+    position: fixed;
+    z-index: 1000;
+}
+
+header nav {
+    grid-column: span 12;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0%;
+
+}
+
+header nav li {
+    list-style: none;
+
+    display: inline-block;
+
+
+}
+
+header nav li a {
+    color: rgb(0, 0, 0);
+    background-color: rgb(231, 215, 116);
+    border: 5px solid rgb(0, 0, 0);
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    width: 200px;
+    margin-right: 1em;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    border-radius: 10px;
+    font-size: 23px;
+}
+
+header nav li a:hover {
+    background-color: rgb(255, 245, 198);
+}
+
+section {
+    grid-column: span 12;
+}
+
+
+section aside {
+    background-color: rgb(220, 174, 23);
+    padding: 2em;
+    border-radius: 20px;
+
+
+}
+
+section aside h1 {
+    color: black;
+    background-color: rgb(241, 217, 95);
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 1em;
+    text-align: center;
+    align-self: center;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    width: max-content, fit-content
+}
+
+section nav aside {
+    grid-column: span 12;
+    text-align: center;
+    border: none;
+    margin: 0;
+
+
+}
+
+section nav aside ul {
+    display: flex;
+}
+
+
+body {
+    background-image: url(Photo/AM.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#wrapper {
+    color: rgb(0, 0, 0);
+    margin: 24px auto;
+    width: 1200px;
+    padding: 24px 100px;
+    background-color: transparent;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 24px;
+    font-family: "Trade Winds", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.Text {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 25px
+}
+
+.flote {
+    float: left;
+    margin: 1em;
+}
+
+.flote2 {
+    float: right;
+    margin: 1em;
+}
+
+Main {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 2em;
+    margin-bottom: 1em;
+    background-color: rgb(240, 179, 22);
+    border-radius: 20px;
+
+}
+h3 {border-bottom: 3px solid black;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.h1 {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(245, 245, 98);
+    width: max-content;
+    offset: path("M 50 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(10deg);
+    font-family: "Limelight", sans-serif;
+}
+
+.h1 a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.h1 a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.h1a {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(97, 97, 97);
+    width: max-content;
+    offset: path("M 1000 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(-10deg);
+}
+
+.h1a a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.h1a a:hover {
+    color: rgb(0, 0, 0);
+}
+
+
+.h1b {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(35, 4, 89);
+    width: max-content;
+    offset: path("M 200 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(10deg);
+}
+
+.h1b a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.h1b a:hover {
+    color: rgb(148, 159, 233);
+}
+
+aside {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(39, 39, 39);
+    padding: 2em;
+    margin-bottom: 4em;
+    border-radius: 20px;
+}
+
+.T {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(41, 35, 106);
+    padding: 2em;
+    margin-bottom: 4em;
+    border-radius: 20px;
+}
+
+footer {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(230, 217, 45);
+    padding: 2em;
+    padding-left: 0;
+    margin-bottom: 2em;
+    border-radius: 20px;
+
+}
+
+footer p { font-size: 35px;
+display: inline; 
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 25px}
+footer ul{ list-style: none;
+display:inline;
+}
+
+footer li {display: inline;
+
+}
+
+footer li a { color: rgb(0, 0, 0);
+    background-color: rgb(231, 215, 116);
+  border: 5px solid black;
+  text-decoration: none;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 32px;
+  margin-right: 1em;
+}
+#subwapper {
+  color: white;
+  border: 5px solid black;
+  padding: 24px;
+  background-color: rgb(177, 89, 30);
+  display: grid;
+  grid-column-gap: 24px;
+  grid-template-columns: repeat(12, 1fr);
+  border-radius: 10px;
+  margin-top: 150px;
+}
+
+header {
+  grid-column: span 12;
+  background-color: rgb(177, 94, 30);
+  border-radius: 10px;
+  border: 5px solid rgb(0, 0, 0);
+  position: fixed;
+  z-index: 1000;
+}
+
+header nav {
+  grid-column: span 12;
+  text-align: center;
+}
+
+header nav ul {
+  list-style: none;
+  padding: 10px;
+}
+
+header nav li {
+  list-style: none;
+  transform: skew(-20deg);
+  display: inline-block;
+
+
+}
+
+header nav li a {
+  color: white;
+  background-color: rgb(209, 137, 20);
+  border: 5px solid rgb(0, 0, 0);
+  text-decoration: none;
+  display: block;
+  padding: 0px;
+  width: 200px;
+  margin-right: 1em;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 23px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+header nav li a:hover {
+  background-color: rgb(170, 124, 18);
+}
+
+section {
+  grid-column: span 12;
+}
+
+
+
+section ul {
+  grid-column: span 3;
+  margin: 0;
+  padding: 0em;
+}
+
+section nav ul {
+  list-style: none;
+  margin-top: 2em;
+
+
+}
+
+section nav li {
+  list-style: none;
+  margin-right: 5px;
+  display: inline-block;
+  transform: skew(-10deg);
+
+
+}
+
+section nav li a:hover {
+  background-color: rgb(171, 109, 28);
+}
+
+section li a {
+  color: white;
+  background-color: rgb(224, 140, 29);
+  border: 5px solid black;
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  width: 200px;
+  margin-bottom: 2em;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 32px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+section aside {
+  background-color: rgb(177, 89, 30);
+  padding: 2em;
+  border-radius: 10px;
+
+
+}
+
+section aside h1 {
+  background-color: rgb(220, 122, 47);
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 1em;
+  text-align: center;
+  align-self: center;
+  margin-bottom: 1em;
+  margin-top: 0em;
+  width: 85%;
+  font-weight: normal;
+}
+
+section nav aside {
+  grid-column: span 6;
+  text-align: center;
+  border: none;
+  margin-bottom: 0;
+
+}
+
+section nav aside ul {
+  display: flex;
+}
+
+section nav aside p {
+  background-color: rgb(220, 122, 47);
+  border: 5px solid black;
+  color: rgb(255, 255, 255);
+  width: max-content, fit-content;
+  padding: 1em;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+body {
+  background-color: #320f03;
+  background-image: url(Photo/Br3.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 98%;
+}
+
+
+#wrapper {
+  color: white;
+  margin: 24px auto;
+  width: 1200px;
+  border: 1px solid black;
+  padding: 24px 100px;
+  background-color: #623c14;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+  font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+
+}
+
+.Text {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 25px
+}
+
+.flote {
+  float: left;
+  margin: 1em;
+}
+
+.flote2 {
+  float: right;
+  margin: 1em;
+}
+
+img  {
+  border-radius: 5px;
+  margin: 1em;
+}
+
+Main {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(196, 116, 24);
+  border-radius: 10px;
+}
+main img {width: 25%;
+border-radius: 10%;
+border: 5px solid black;}
+
+.h1 {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(220, 160, 47);
+  width: max-content;
+  offset: path("M 400 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+  transform: skew(-10deg);
+}
+
+.h1a {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(118, 118, 118);
+  width: max-content;
+  offset: path("M 900 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+  transform: skew(10deg);
+}
+
+.h1b {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(37, 15, 97);
+  width: max-content;
+  offset: path("M 250 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+  transform: skew(-10deg);
+}
+
+h1:hover {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+
+}
+
+h1 a {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+.main {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(128, 128, 128);
+  border-radius: 10px;
+}
+section img {width: 30%;
+border-radius: 10%;
+border: 2px solid black;}
+
+.aside {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(26, 4, 89);
+  border-radius: 10px;
+}
+
+
+
+
+aside {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(196, 116, 24);
+  border-radius: 10px;
+}
+aside img {border-radius: 10%;
+border: 2px solid black;}
+
+footer {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(177, 94, 30);
+  padding: 2em;
+  padding-left: 0;
+  margin-bottom: 4em;
+  border-radius: 10px;
+
+}
+footer p { font-size: 35px;
+display: inline; 
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 25px}
+
+footer ul{ list-style: none;
+display:inline;
+}
+
+footer li {display: inline;
+
+}
+
+footer li a { color: white;
+  background-color: rgb(207, 97, 7);
+  border: 5px solid black;
+  text-decoration: none;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 32px;
+  margin-right: 1em;
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Art Page</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+		rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.css" />
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.umd.js"></script>
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+	<link href="Art.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+		<header>
+			<nav>
+				<ul>
+					<li><a href="Main.html">Home</a></li>
+					<li><a href="Story.html">Stories</a></li>
+					<li><a href="#">Art</a></li>
+					<li><a href="Music.html">Music</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+
+			<nav id="subwapper">
+				<ul>
+					<li><a href="Story.html">Stories</a></li>
+					<li><a href="Main.html">Home</a></li>
+				</ul>
+				<aside>
+					<h1>Art</h1>
+					<p> This page contains art from my stories</p>
+
+				</aside>
+				<ul>
+					<li><a href="Music.html">Music</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+
+			</nav>
+
+		</section>
+		<h1 class="h1">Aftermath: Welcome To The Mayhem Art Collection</h1>
+
+		<main>
+
+			<a href="Photo/AM.png" data-fancybox="AM" data-caption="The orignal cover of Aftermath. Still in the process in updating it.">
+				<img src="Photo/AM(m).png" alt="cover from the AM series">
+			</a>
+			<a href="Photo/AmPm2.png" data-fancybox="AM" data-caption="One of my older character designs of the AM characters in there psychotic state.">
+				<img src="Photo/AmPm2.png" alt="Characters from the AM series">
+			</a>
+			<a href="Photo/AmPm.png" data-fancybox="AM" data-caption="One of my older character designs of the AM characters in there normal state.">
+				<img src="Photo/AmPm.png" alt="Characters from the AM series">
+			</a>
+		</main>
+
+		<h1 class="h1a">Jin Xang: The Fall Of Unity Art Collection</h1>
+
+		<section class="main">
+			<a href="Photo/JX.png" data-fancybox="JX" data-caption="The outcast team. Feature in series 3. ">
+				<img src="Photo/JX(m).png" alt="The characters from the JX series">
+			</a>
+			<a href="Photo/Xang.png" data-fancybox="JX" data-caption="The Xang family">
+				<img src="m/Xang(m).png" alt="The Xang family from the JX series">
+			</a>
+			<a href="Photo/Quin.png" data-fancybox="JX" data-caption="The Quintana family">
+				<img src="m/QUIN(m).png" alt="The Quintana from the JX series">
+			</a>
+			<a href="Photo/Ash.png" data-fancybox="JX" data-caption="The Ash family">
+				<img src="m/Ash(m).png" alt="The Ash family from the JX series">
+			</a>
+
+			<a href="Photo/WZ.png" data-fancybox="JX" data-caption="The Warner and Zimmerman family">
+				<img src="M/ZW(m).png" alt="The Warner and Zimmerman family from the JX series">
+			</a>
+			<a href="Photo/KM.png" data-fancybox="JX" data-caption="Kuile and Mullins family">
+				<img src="M/Km(m).png" alt="The Kuile and Mullins family from the JX series">
+			</a>
+			<a href="Photo/Syi.png" data-fancybox="JX" data-caption="The Syi family">
+				<img src="m/Syi(m).png" alt="The Syi family from the JX series">
+			</a>
+			<a href="Photo/Yong.png" data-fancybox="JX" data-caption="The Yong family">
+				<img src="m/Yong(m).png" alt="The yong family from the JX series">
+			</a>
+
+		</section>
+
+		<h1 class="h1b">Escape The Void (Coming soon)</h1>
+
+		<aside class="aside">
+			
+			<a href="Photo/ETV.png" data-fancybox="ETV" data-caption="Escape The Void">
+				<img src="Photo/ETV(m).png" alt="The cover of one of my story. ETV">
+			</a>
+
+		</aside>
+		<Footer>
+			<ul>
+				<li><a href="https://www.instagram.com/music_mixer_104?igsh=eWY5ZXprdWpvcTBo
+" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+							class="bi bi-instagram" viewBox="0 0 16 16">
+							<path
+								d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+						</svg>
+				<li><a href="https://www.tumblr.com/majormelody?source=share" target="_blank">Tumblr
+					</a></li>
+			</ul>
+<p> These are my social tags that hold some of my artwork</p>
+
+		</Footer>
+		<script>
+			Fancybox.bind("[data-fancybox]", {});
+		</script>
+</body>
+</div>
+
+</html>
+#subwapper {
+  color: white;
+  border: 5px solid black;
+  padding: 24px;
+  background-color: rgb(135, 30, 177);
+  display: grid;
+  grid-column-gap: 24px;
+  grid-template-columns: repeat(12, 1fr);
+  border-radius: 30px;
+  margin-top: 150px;
+}
+
+header {
+  grid-column: span 12;
+  background-color: rgb(135, 30, 177);
+  border-radius: 30px;
+  border: 5px solid rgb(0, 0, 0);
+  position: fixed;
+  z-index: 1000;
+
+}
+
+header nav {
+  grid-column: span 12;
+  text-align: center;
+}
+
+header nav ul {
+  list-style: none;
+  padding: 10px;
+
+}
+
+header nav li {
+  list-style: none;
+  display: inline-block;
+
+
+}
+
+header nav li a {
+  color: white;
+  background-color: rgb(152, 98, 199);
+  border: 5px solid rgb(0, 0, 0);
+  text-decoration: none;
+  display: block;
+  padding: 0px;
+  width: 200px;
+  margin-right: 1em;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 23px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+header nav li a:hover {
+  background-color: rgb(124, 82, 161);
+
+}
+
+section {
+  grid-column: span 12;
+}
+
+
+
+section ul {
+  grid-column: span 3;
+  margin: 0;
+  padding: 0em;
+}
+
+section nav ul {
+  list-style: none;
+  margin-top: 2em;
+
+}
+
+section nav li {
+  list-style: none;
+  margin-right: 5px;
+  display: inline-block;
+
+}
+
+
+
+section nav li a:hover {
+  background-color: rgb(124, 82, 161);
+}
+
+section li a {
+  color: white;
+  background-color: rgb(138, 88, 185);
+  border: 5px solid black;
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  width: 200px;
+  margin-bottom: 2em;
+  text-align: center;
+  border-radius: 30px;
+  font-size: 32px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+section aside {
+  background-color: rgb(135, 30, 177);
+  padding: 2em;
+  border-radius: 30px;
+
+}
+
+section aside p {
+  background-color: rgb(138, 88, 185);
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 1em;
+  font-size: 20px;
+
+}
+
+
+section aside h1 {
+  background-color: rgb(128, 47, 220);
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 30px;
+  padding: 1em;
+  text-align: center;
+  align-self: center;
+  margin-bottom: 1em;
+  margin-top: 0em;
+  width: 85%;
+  font-weight: normal;
+}
+
+section nav aside {
+  grid-column: span 6;
+  text-align: center;
+  border: none;
+  margin-bottom: 0;
+
+}
+
+section nav aside ul {
+  display: flex;
+}
+
+
+body {
+  background-image: url(Photo/notes.png);
+  background-repeat: no-repeat;
+  background-color: #3f1462;
+  background-position: center;
+  opacity: 98%;
+}
+
+#wrapper {
+  color: white;
+  margin: 24px auto;
+  width: 1200px;
+  border: 5px solid black;
+  padding: 24px 100px;
+  background-color: #3f1462;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+  font-family: "Coiny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.Text {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 25px
+}
+
+.flote {
+  float: left;
+  margin: 1em;
+}
+
+.flote2 {
+  float: right;
+  margin: 1em;
+}
+
+Main {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(123, 63, 179);
+  border-radius: 30px;
+}
+
+.h1 {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(178, 140, 212);
+  width: max-content;
+  offset: path("M 70 100");
+  padding: 1em;
+  border-radius: 30px;
+  margin: 0%;
+  font-weight: normal;
+}
+
+.h1a {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(178, 140, 212);
+  width: max-content;
+  offset: path("M 1100 100");
+  padding: 1em;
+  border-radius: 30px;
+  margin: 0%;
+  font-weight: normal;
+}
+
+aside {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(123, 63, 179);
+  padding: 2em;
+  margin-bottom: 4em;
+  border-radius: 30px;
+}
+
+footer {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(135, 30, 177);
+  padding: 2em;
+  padding-left: 0;
+  margin-bottom: 4em;
+  border-radius: 30px;
+
+}
+footer p { font-size: 35px;
+display: inline; 
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 25px}
+
+footer ul {
+  list-style: none;
+  display: inline;
+
+}
+
+footer li {
+  display: inline;
+
+}
+
+footer li a {
+  color: white;
+  background-color: rgb(81, 25, 133);
+  border: 5px solid black;
+  text-decoration: none;
+  padding: 20px;
+  width: 200px;
+  margin-bottom: 2em;
+  text-align: center;
+  border-radius: 30px;
+  font-size: 32px;
+  margin-right: 1em;
+}
+
+span a:hover {
+  color: rgb(255, 225, 0);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+span a {
+  color: rgb(0, 255, 229);
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Major Melody's Wonderful Website</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+		rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+	<link href="Main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+		<header>
+			<nav>
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="Story.html">Stories</a></li>
+					<li><a href="Art.html">Art</a></li>
+					<li><a href="Music.html">Music</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+
+			<nav id="subwapper">
+				<ul>
+					<li><a href="Story.html">Stories</a></li>
+					<li><a href="Art.html">Art</a></li>
+				</ul>
+				<aside>
+					<h1> Welcome to <br> Major Melody's Website</h1>
+					<p>The place where I show off my projects that I have been working of sincc 2016 </p>
+					<ul>
+						<li><a href="https://www.instagram.com/music_mixer_104?igsh=eWY5ZXprdWpvcTBo
+" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+									fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+									<path
+										d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+								</svg>
+						<li><a href="https://www.tumblr.com/majormelody?source=share" target="_blank">Tumblr
+							</a></li>
+					</ul>
+				</aside>
+				<ul>
+					<li><a href="Music.html">Music</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+
+			</nav>
+
+		</section>
+		<h1 class="h1"> About Me</h1>
+		<main>
+			<img class="flote" src="Photo/MM(m).png" alt="Image Name">
+			<p class="Text"> I'm Jay but I go but my alias Major Melody. I have been doing things creative thing since I
+				was little. My main hobbies are drawing, composing, playing games, and so on. I have resently gone back into fanart and I'm hoping that my art will improve. You would see most of my fanart on Tumblr because I find it more user friendly. Neverless, most of my OC's art is going to be on this website. </p>
+		</main>
+
+		<h1 class="h1a">Latest News</h1>
+		<aside>
+			<img class="flote2" src="Photo/JX(m).png" alt="Image Name">
+			<p class="Text"> Major updates relating to the 4 characters in the <span><a href="Story.html">Jin Xang: The Fall Of
+						Unity</a></span>. I have been testing out some anatomy work, starting with the head, to see if
+				how the style would work with the seires.</p>
+		</aside>
+		<Footer>
+			<ul>
+				<li><a href="https://www.instagram.com/music_mixer_104?igsh=eWY5ZXprdWpvcTBo
+" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+									fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+									<path
+										d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+								</svg>
+						<li><a href="https://www.tumblr.com/majormelody?source=share" target="_blank">Tumblr
+							</a></li>
+			</ul>
+<p> These are my social tags that hold some of my artwork</p>
+
+		</Footer>
+
+</body>
+</div>
+
+</html>
+#subwapper {
+  color: white;
+  border: 5px solid black;
+  padding: 24px;
+  background-color: rgb(57, 57, 57);
+  display: grid;
+  grid-column-gap: 24px;
+  grid-template-columns: repeat(12, 1fr);
+  border-radius: 50px;
+  margin-top: 150px;
+}
+
+header {
+  grid-column: span 12;
+  background-color: rgb(57, 57, 57);
+  border-radius: 40px;
+  border: 5px solid rgb(0, 0, 0);
+  position: fixed;
+  z-index: 1000;
+
+}
+
+header nav {
+  grid-column: span 12;
+  text-align: center;
+}
+
+header nav ul {
+  list-style: none;
+  padding: 10px;
+
+}
+
+header nav li {
+  list-style: none;
+
+  display: inline-block;
+
+
+}
+
+header nav li a {
+  color: white;
+  background-color: rgb(91, 91, 91);
+  border: 5px solid rgb(0, 0, 0);
+  text-decoration: none;
+  display: block;
+  padding: 0px;
+  width: 200px;
+  margin-right: 1em;
+  text-align: center;
+  border-radius: 50px;
+  font-size: 23px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+header nav li a:hover {
+  background-color: rgb(135, 134, 134);
+}
+
+section {
+  grid-column: span 12;
+}
+
+
+
+section ul {
+  grid-column: span 3;
+  margin: 0;
+  padding: 0em;
+}
+
+section nav ul {
+  list-style: none;
+  margin-top: 2em;
+
+
+}
+
+section nav li {
+  list-style: none;
+  margin-right: 5px;
+  display: inline-block;
+
+
+}
+
+section nav li a:hover {
+  background-color: rgb(135, 134, 134);
+}
+
+section li a {
+  color: white;
+  background-color: rgb(91, 91, 91);
+  border: 5px solid black;
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  width: 200px;
+  margin-bottom: 2em;
+  text-align: center;
+  border-radius: 50px;
+  font-size: 32px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+section aside {
+  background-color: rgb(57, 57, 57);
+  padding: 2em;
+  border-radius: 50px;
+
+}
+
+section aside h1 {
+  background-color: rgb(92, 92, 92);
+  border: 5px solid rgb(0, 0, 0);
+  border-radius: 10px;
+  padding: 1em;
+  text-align: center;
+  align-self: center;
+  margin-bottom: 1em;
+  margin-top: 0em;
+  width: 85%;
+  font-weight: normal;
+  border-radius: 50px;
+}
+
+section nav aside {
+  grid-column: span 6;
+  text-align: center;
+  border: none;
+  margin-bottom: 0;
+
+}
+
+section nav aside ul {
+  display: flex;
+}
+
+section nav aside p {
+  background-color: rgb(30, 30, 30);
+  border: 5px solid black;
+  color: rgb(255, 255, 255);
+  width: max-content, fit-content;
+  padding: 1em;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+body {
+  background-color: #090909;
+  background-image: url(Photo/Br2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 98%;
+}
+.Body { 
+background-color: rgb(57, 57, 57);
+border: 5px solid black;
+display: flex;
+border-radius: 50px;
+padding: 1em;
+margin-top: 1em;
+margin-bottom: 1em;}
+
+#wrapper {
+  color: white;
+  margin: 24px auto;
+  width: 1200px;
+  padding: 24px 100px;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-column-gap: 24px;
+  font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+
+}
+
+audio {grid-column: span 6;
+padding-top: 2em;
+}
+
+.Text {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 25px
+}
+
+.flote {
+  float: left;
+  margin: 1em;
+}
+
+.flote2 {
+  float: right;
+  margin: 1em;
+}
+
+Main {grid-column: span 8 auto;
+  padding: 2em;
+  margin-bottom: 1em;
+  border-radius: 50px;
+}
+
+.h1 {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(220, 160, 47);
+  width: max-content;
+  offset: path("M 400 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+
+}
+
+.h1a {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(118, 118, 118);
+  width: max-content;
+  offset: path("M 900 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+  transform: skew(10deg);
+}
+
+.h1b {
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(37, 15, 97);
+  width: max-content;
+  offset: path("M 250 100");
+  padding: 1em;
+  border-radius: 10px;
+  margin: 0%;
+  font-weight: normal;
+  transform: skew(-10deg);
+}
+
+h1:hover {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s ease, transform 0.3s ease;
+
+}
+
+h1 a {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+.main {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  padding: 2em;
+  margin-bottom: 1em;
+  background-color: rgb(196, 116, 24);
+  border-radius: 10px;
+}
+
+#playlist { 
+  list-style: none;
+  padding: 0;
+}
+main ul {
+border-radius: 30px;}
+
+main ul section li {
+  background-color: rgb(252, 160, 48);
+  border: 5px solid black;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  padding: 20px;
+  width: 400px;
+  border-radius: 20px;
+  font-size: 20px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+margin-bottom: 10px;
+}
+
+main ul section li:hover {
+  background-color: rgb(255, 206, 72);
+}
+.JX li { background-color: rgb(242, 56, 56);
+  border: 5px solid black;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  padding: 20px;
+  width: 400px;
+  border-radius: 20px;
+  font-size: 20px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.JX li:hover {
+  background-color: rgb(247, 135, 135);
+}
+.ETV li {background-color: rgb(127, 58, 176);
+  border: 5px solid black;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  padding: 20px;
+  width: 400px;
+  border-radius: 20px;
+  font-size: 20px;
+  transition: background-color 0.3s ease, transform 0.3s ease;}
+
+  .ETV li:hover {background-color: rgb(184, 132, 239);}
+
+
+  aside {
+  grid-column: span 12;
+  border: 5px solid rgb(242, 255, 0);
+  /***Holding color**/
+  padding: 2em;
+  margin-bottom: 1em;
+  border-radius: 50px;
+}
+
+footer {
+  grid-column: span 12;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(76, 75, 75);
+  padding: 2em;
+  padding-left: 0;
+  margin-bottom: 4em;
+  border-radius: 50px;
+
+}
+
+footer p { font-size: 35px;
+display: inline; 
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 25px}
+  
+footer ul {
+  list-style: none;
+  display: inline;
+
+}
+
+footer li {
+  display: inline;
+
+}
+
+footer li a {
+  color: white;
+  background-color: rgb(51, 51, 51);
+  border: 5px solid black;
+  text-decoration: none;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  border-radius: 30px;
+  font-size: 32px;
+  margin-right: 1em;
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title> Music Page</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+		rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.css" />
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.1/dist/fancybox/fancybox.umd.js"></script>
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+	<link href="Music.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+		<header>
+			<nav>
+				<ul>
+					<li><a href="Main.html">Home</a></li>
+					<li><a href="Story.html">Stories</a></li>
+					<li><a href="Art.html">Art</a></li>
+					<li><a href="#">Music</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+
+			<nav id="subwapper">
+				<ul>
+					<li><a href="Story.html">Stories</a></li>
+					<li><a href="Art.html">Art</a></li>
+				</ul>
+				<aside>
+					<h1>Music</h1>
+					<P> This page has my music that I made thoughout the years
+
+					</P>
+				</aside>
+				<ul>
+					<li><a href="Main.html">Home</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+
+			</nav>
+
+		</section>
+		<section class="Body">
+			<main>
+				<ul id="playlist">
+					<section>
+						<li class="active" data-src="Audio/Aftermath_My_Destiny.mp3">Aftermath - My Desitiny</li>
+						<li data-src="Audio/Music_Mixer_104 - Aftermath- Deceiving Tango .m4a">Aftermath - Deceiving
+							Tango</li>
+						<li data-src="Audio/Music_Mixer_104 - Aftermath- Roulette .m4a">Aftermath - Roulette</li>
+						<li data-src="Audio/Music_Mixer_104 - Aftermath- Faithful Hero.m4a">Aftermath - Faithful Hero
+						</li>
+						<li data-src="Audio/Music_Mixer_104 - Aftermath-Skyfall .m4a">Aftermath - Skyfall</li>
+					</section>
+					<section class="JX">
+						<li data-src="Audio/Music_Mixer_104 - Jin Xang Series - Insanity .m4a">Jin Xang Series -
+							Insanity</li>
+						<li data-src="Audio/Music_Mixer_104 - Jin Xang Series - Psycho.m4a"> Jin Xang Series - Psycho
+						</li>
+					</section>
+					<section class="ETV">
+						<li data-src="Audio/Music_Mixer_104 - ETV Sleepless Nights .m4a">ETV - Sleepless Nights</li>
+					</section>
+				</ul>
+
+
+			</main>
+
+			<audio id="player" controls>
+				<source src="Audio/Aftermath_My_Destiny.mp3" type="audio/mpeg">
+			</audio>
+
+			<script>
+				const player = document.getElementById('player');
+				const items = document.querySelectorAll('#playlist li');
+
+				items.forEach(item => {
+					item.addEventListener('click', () => {
+						player.src = item.dataset.src;
+						player.play();
+					});
+				});
+
+				// Auto-advance to next track
+				player.addEventListener('ended', () => {
+					const active = document.querySelector('#playlist li.active');
+					const next = active?.nextElementSibling;
+					if (next) next.click();
+				});
+
+				// Highlight active track
+				items.forEach(item => {
+					item.addEventListener('click', () => {
+						items.forEach(i => i.classList.remove('active'));
+						item.classList.add('active');
+					});
+				});
+			</script>
+
+			<style>
+				#playlist li:hover {
+					color: red;
+					cursor: pointer;
+					transition:
+						color 0.3s ease, transform 0.3s ease;
+
+				}
+
+				#playlist li.active {
+					color: rgb(0, 0, 0);
+				}
+			</style>
+		</section>
+		<Footer>
+			<ul>
+				<li><a href="https://www.instagram.com/music_mixer_104?igsh=eWY5ZXprdWpvcTBo
+" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+							class="bi bi-instagram" viewBox="0 0 16 16">
+							<path
+								d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+						</svg>
+				<li><a href="https://www.tumblr.com/majormelody?source=share" target="_blank">Tumblr
+					</a></li>
+			</ul>
+			<p> These are my social tags that hold some of my artwork</p>
+
+		</Footer>
+</body>
+</div>
+
+</html>
+#subwapper {
+    color: white;
+    border: 5px solid black;
+    padding: 24px;
+    background-color: rgb(177, 30, 30);
+    display: grid;
+    grid-column-gap: 24px;
+    grid-template-columns: repeat(12, 1fr);
+    border-radius: 20px;
+  margin-top: 150px;
+}
+
+header {
+    grid-column: span 12;
+    background-color: rgb(177, 30, 30);
+    border-radius: 15px;
+    border: 5px solid rgb(0, 0, 0);
+    position: fixed;
+    z-index: 1000;
+}
+
+header nav {
+    grid-column: span 12;
+    text-align: center;
+}
+
+header nav ul {
+    list-style: none;
+  padding: 10px;
+}
+
+header nav li {
+    list-style: none;
+
+    display: inline-block;
+
+
+}
+
+header nav li a {
+    color: white;
+    background-color: rgb(199, 98, 98);
+    border: 5px solid rgb(0, 0, 0);
+    text-decoration: none;
+    display: block;
+    padding: 0px;
+    width: 200px;
+    margin-right: 1em;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 23px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+header nav li a:hover {
+    background-color: rgb(161, 82, 82);
+}
+
+section {
+    grid-column: span 12;
+}
+
+
+
+section ul {
+    grid-column: span 3;
+    margin: 0;
+    padding: 0em;
+}
+
+section nav ul {
+    list-style: none;
+    margin-top: 2em;
+
+}
+
+section nav li {
+    list-style: none;
+    margin-right: 5px;
+    display: inline-block;
+
+
+}
+
+section nav li a:hover {
+    background-color: rgb(161, 82, 82);
+}
+
+section li a {
+    color: white;
+    background-color: rgb(185, 88, 88);
+    border: 5px solid black;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    width: 200px;
+    margin-bottom: 2em;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 32px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+
+}
+
+section aside {
+    background-color: rgb(177, 30, 30);
+    padding: 2em;
+    border-radius: 20px;
+
+
+}
+
+section aside h1 {
+    background-color: rgb(220, 47, 47);
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 1em;
+    text-align: center;
+    align-self: center;
+    margin-bottom: 1em;
+    margin-top: 0em;
+    width: 85%
+}
+
+section nav aside {
+    grid-column: span 6;
+    text-align: center;
+    border: none;
+    margin-bottom: 0;
+
+}
+
+section nav aside ul {
+    display: flex;
+}
+
+section nav aside p {
+    background-color: rgb(220, 47, 47);
+    border: 5px solid black;
+    color: rgb(255, 255, 255);
+    width: max-content, fit-content;
+    padding: 1em;
+    font-size: 20px;
+}
+
+body {
+    background-color: #320303;
+  background-image: url(Photo/Br1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 98%;
+}
+
+#wrapper {
+    color: white;
+    margin: 24px auto;
+    width: 1200px;
+    border: 1px solid black;
+    padding: 24px 100px;
+    background-color: #621414;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-column-gap: 24px;
+    font-family: "Trade Winds", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.Text {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 25px
+}
+
+.flote {
+    float: left;
+    margin: 1em;
+}
+
+.flote2 {
+    float: right;
+    margin: 1em;
+}
+
+Main {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    padding: 2em;
+    margin-bottom: 1em;
+    background-color: rgb(185, 139, 23);
+    border-radius: 20px;
+
+}
+
+.h1 {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(189, 148, 51);
+    width: max-content;
+    offset: path("M 250 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(10deg);
+}
+
+.h1 a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.h1 a:hover {
+    color: rgb(0, 0, 0);
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.h1a {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(97, 97, 97);
+    width: max-content;
+    offset: path("M 1000 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(-10deg);
+}
+
+.h1a a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.h1a a:hover {
+    color: rgb(0, 0, 0);
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+
+.h1b {
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(35, 4, 89);
+    width: max-content;
+    offset: path("M 200 100");
+    padding: 1em;
+    border-radius: 20px;
+    margin: 0%;
+    transform: skew(10deg);
+
+}
+
+.h1b a {
+    text-decoration: none;
+    color: white;
+    font-family: fantasy;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 40px;
+    transition: color 0.3s ease, transform 0.3s ease;
+
+}
+
+.h1b a:hover {
+    color: rgb(148, 159, 233);
+    transition: color 0.3s ease, transform 0.3s ease;
+
+}
+span {color: red; 
+font-weight: bold;
+text-transform: uppercase;}
+
+aside {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(39, 39, 39);
+    padding: 2em;
+    margin-bottom: 4em;
+    border-radius: 20px;
+}
+
+.T {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(41, 35, 106);
+    padding: 2em;
+    margin-bottom: 4em;
+    border-radius: 20px;
+}
+
+footer {
+    grid-column: span 12;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(177, 30, 30);
+    padding: 2em;
+    padding-left: 0;
+    margin-bottom: 4em;
+    border-radius: 20px;
+
+}
+footer p { font-size: 35px;
+display: inline; 
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 25px}
+
+footer ul {
+    list-style: none;
+    display: inline;
+
+}
+
+footer li {
+    display: inline;
+
+}
+
+footer li a {
+    color: white;
+    background-color: rgb(140, 9, 9);
+    border: 5px solid black;
+    text-decoration: none;
+    padding: 20px;
+    width: 200px;
+    margin-bottom: 2em;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 32px;
+    margin-right: 1em;
+}
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Story Page</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Coiny&family=Lora:ital,wght@0,400..700;1,400..700&display=swap"
+		rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+
+	<link href="Story.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+	<div id="wrapper">
+		
+		<header>
+			<nav>
+				<ul>
+					<li><a href="Main.html">Home</a></li>
+					<li><a href="#">Stories</a></li>
+					<li><a href="Art.html">Art</a></li>
+					<li><a href="Music.html">Music</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+
+			<nav id="subwapper">
+				<ul>
+					<li><a href="Main.html"> Home</a></li>
+					<li><a href="Art.html">Art</a></li>
+				</ul>
+				<aside>
+					<h1>Stories</h1>
+					<p> This page contains my stories</p>
+
+
+				</aside>
+				<ul>
+					<li><a href="Music.html">Music</a></li>
+					<li><a href="https://major-melodys-store.printify.me/" target="_blank">Store</a></li>
+				</ul>
+
+			</nav>
+
+		</section>
+		<h1 class="h1"> <a href="Aftermath.html"> Aftermath: Welcome to The Mayhem </a></h1>
+		<main>
+			<img class="flote" src="Photo/AM(m).png" alt="A cover of Aftermath">
+			<p class="Text">Aftermath follows a group of people living in a divided town named Centralpoint. In the past Centralpoint was a unified urban town which promoted a lot of business, but now is suffering from power corruption and violent outbreaks. Those who enter the city are subjected to the trauma which prevents them from leaving because of a permanent barrier that causes mental disarray aka distortion in them. <span> click the story title</span></p>
+		</main>
+
+		<h1 class="h1a"> <a href="#">Jin Xang: The Fall Of Unity</a></h1>
+		<aside>
+			<img class="flote2" src="Photo/JX(m).png" alt="A cover of Jin Xang">
+			<p class="Text"> The Jin Xang series is a 4 part story that was inspired by different shows and books that I can’t recall. The main character is Jin Xang (obviously) who lives in a world/society that has elemental and mythical powers. The powers were created by the era 0 elites (known as the gods and goddesses). Azalea (Life\Nature), Oriyal (Death), Akata (Fire), Crystalline, (Water\Ice), Angellina & Aura (Sanity\Insainty). Element powers included Fire, Water, Ice, and Nature, (Venom, Acid, and Electric come later in the series). Mythical powers are powers that are considered to be relating to the goddess of life (Azalea) and the god\goddess of death (Oriyal) or Angellina & Aura. (More plot coming soon)</p>
+		</aside>
+		<h1 class="h1b"> <a href="#"> Escape The Void (EtV) </a></h1>
+		<aside class="T">
+			<img class="flote" src="Photo/ETV(m).png" alt="A cover of Escape The Void">
+			<p class="Text">EVT is the newest series so there is not much information. This series was made in 2026 and it involves a series of events that has different outcomes.More information will be added.</p>
+		</aside>
+
+		<Footer>
+			<ul>
+				<li><a href="https://www.instagram.com/music_mixer_104?igsh=eWY5ZXprdWpvcTBo
+" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+									fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+									<path
+										d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334" />
+								</svg>
+						<li><a href="https://www.tumblr.com/majormelody?source=share" target="_blank">Tumblr
+							</a></li>
+			</ul>
+<p> These are my social tags that hold some of my artwork</p>
+
+		</Footer>
+
+</body>
+</div>
+
+</html>

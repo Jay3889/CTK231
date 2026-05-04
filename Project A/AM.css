@@ -7,6 +7,7 @@
     grid-column-gap: 24px;
     grid-template-columns: repeat(12, 1fr);
     border-radius: 20px;
+    margin-top: 100px;
 
 
 }
@@ -15,8 +16,10 @@ header {
     grid-column: span 12;
     background-color: rgb(220, 174, 23);
     border-radius: 20px;
+    padding-left: 1em;
     border: 5px solid rgb(0, 0, 0);
-
+    position: fixed;
+    z-index: 1000;
 }
 
 header nav {
@@ -46,7 +49,7 @@ header nav li a {
     display: block;
     padding: 0px;
     width: 200px;
-    margin-right: 0em;
+    margin-right: 1em;
     transition: background-color 0.3s ease, transform 0.3s ease;
     border-radius: 10px;
     font-size: 23px;
@@ -97,8 +100,8 @@ section nav aside ul {
 
 
 body {
-    background-image: url(AM.png);
-    background-repeat:no-repeat;
+    background-image: url(Photo/AM.png);
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -144,6 +147,9 @@ Main {
     border-radius: 20px;
 
 }
+h3 {border-bottom: 3px solid black;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 .h1 {
     border: 5px solid rgb(0, 0, 0);
@@ -241,8 +247,36 @@ footer {
     grid-column: span 12;
     border: 5px solid rgb(0, 0, 0);
     background-color: rgb(230, 217, 45);
-    padding: 4em;
-    margin-bottom: 4em;
+    padding: 2em;
+    padding-left: 0;
+    margin-bottom: 2em;
     border-radius: 20px;
 
+}
+
+footer p { font-size: 35px;
+display: inline; 
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 25px}
+footer ul{ list-style: none;
+display:inline;
+}
+
+footer li {display: inline;
+
+}
+
+footer li a { color: rgb(0, 0, 0);
+    background-color: rgb(231, 215, 116);
+  border: 5px solid black;
+  text-decoration: none;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 32px;
+  margin-right: 1em;
 }
